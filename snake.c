@@ -1,4 +1,3 @@
-//Emirhan Cakir, Chance Wetmore, Yasmin Shah, Jason P Walton, Benjamin MC Connell
 
 #include <sys/ioctl.h>
 #include <stdio.h>
